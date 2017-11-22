@@ -1,1 +1,4 @@
-# rdsscan
+ARGUMENTOS: (-d "DOMINIO") ("-s" "SALVAR SUBDOMINIOS ENCONTRADOS") ("-w" "WORDLIST PARA BRUTE-FORCE")
+
+__AUTOR__ = 'RNX'
+__CONTATO__ = 'www.fb.com/00102abc'
